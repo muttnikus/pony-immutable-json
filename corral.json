@@ -1,0 +1,14 @@
+{
+  "packages": [
+    "immutable-json"
+  ],
+  "deps": [],
+  "info": {
+    "description": "Just like the Ponylang stdlib JSON package, just with everything immutable",
+    "homepage": "https://github.com/mfelsche/pony-immutable-json",
+    "license": "",
+    "documentation_url": "https://github.com/mfelsche/pony-immutable-json",
+    "version": "0.1.0",
+    "name": "immutable-json"
+  }
+}
